@@ -1,6 +1,6 @@
 # Homework 2: Getting Data from Twitter
 
-This homework is due Wednesday September 25, 2019 at 11:59 PM. 
+This homework is due **Wednesday September 25, 2019 at 11:59 PM**. 
 
 ## Useful notes 
 
